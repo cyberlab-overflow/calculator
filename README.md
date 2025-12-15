@@ -1,3 +1,3 @@
 # calculator
 Link for this simple calculator here:
-https://igorcopa.github.io/calculator/
+https://cyberlab-overflow.github.io/calculator/
